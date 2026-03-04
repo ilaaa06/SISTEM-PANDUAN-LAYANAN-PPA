@@ -2,8 +2,45 @@
 
 ## DENGAN INTEGRASI FITUR LAPOR PPA PADA APLIKASI BEBUNGE
 
+## Tampilan Beranda Pengguna
 ![Tampilan Beranda UPTD PPA](uptd_ppa_v2/images/beranda-uptd-ppa.png)
 
+## Tampilan Kontak Darurat
+<img width="827" height="428" alt="image" src="https://github.com/user-attachments/assets/876659ed-9d6f-4974-966d-655e4834e466" />
+
+## Tampilan Panduan Layanan Pelaporan
+<img width="1339" height="2340" alt="PANDUAN LAYANAN PELAPORAN" src="https://github.com/user-attachments/assets/662882ff-40d5-4a14-a9f0-003441a10aef" />
+
+## Tampilan Panduan Layanan Pendampingan Psikolog & Psikiater
+<img width="1919" height="948" alt="image" src="https://github.com/user-attachments/assets/38bee962-7e7c-4c2a-8b1d-58130ffde1ae" />
+
+## Tampilan Panduan Layanan Bantuan Hukum
+<img width="1883" height="883" alt="image" src="https://github.com/user-attachments/assets/65fc96da-73fc-4ce5-b9d5-366e77025d76" />
+
+## Tampilan Dasar Hukum
+<img width="1910" height="894" alt="image" src="https://github.com/user-attachments/assets/6c3e952f-1325-4d36-9e1b-64c217a92fa6" />
+
+## Tampilan FAQ
+<img width="1892" height="878" alt="image" src="https://github.com/user-attachments/assets/80ae81e2-8ce6-4c75-8f74-7a7abd4b223d" />
+
+## Tampilan Login Admin
+<img width="796" height="408" alt="image" src="https://github.com/user-attachments/assets/affca643-a84c-4563-a1eb-19792672df9f" />
+
+## Tampilan Dashboard Admin
+<img width="807" height="415" alt="image" src="https://github.com/user-attachments/assets/45e9c23a-8ed1-448e-8dcc-b6b74bae8e94" />
+
+## Tampilan Kelola Panduan Layanan
+<img width="794" height="410" alt="image" src="https://github.com/user-attachments/assets/8a3ae0a9-7782-4780-ade9-4ffe8e1d75b3" />
+
+## Tampilan Kelola Dasar Hukum
+<img width="802" height="422" alt="image" src="https://github.com/user-attachments/assets/f85e18c0-d3e4-4eb3-b235-dbffff747d83" />
+
+## Tampilan Kelola FAQ
+<img width="827" height="427" alt="image" src="https://github.com/user-attachments/assets/ba96dad4-0117-485f-9af8-21028105a24e" />
+
+## Tampilan Kelola Kontak Darurat
+<img width="827" height="434" alt="image" src="https://github.com/user-attachments/assets/63f1b06e-4bba-48bf-8b09-84746a39a289" />
+ 
 ## 1. Deskripsi Sistem
 
 Sistem Informasi Panduan Layanan PPA berbasis web merupakan aplikasi yang dirancang untuk menyediakan informasi layanan secara terstruktur dan mudah diakses oleh masyarakat terkait layanan Perlindungan Perempuan dan Anak (PPA). Sistem ini juga terintegrasi dengan fitur **Lapor PPA** pada aplikasi Bebunge guna mendukung proses pelaporan yang lebih cepat, terarah, dan terdokumentasi secara digital.
