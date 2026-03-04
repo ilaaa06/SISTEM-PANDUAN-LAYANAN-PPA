@@ -2,7 +2,7 @@
 
 ## DENGAN INTEGRASI FITUR LAPOR PPA PADA APLIKASI BEBUNGE
 
-![Tampilan Beranda UPTD PPA](images/beranda-uptd-ppa.png)
+![Tampilan Beranda UPTD PPA](uptd_ppa_v2/images/beranda-uptd-ppa.png)
 
 ## 1. Deskripsi Sistem
 
