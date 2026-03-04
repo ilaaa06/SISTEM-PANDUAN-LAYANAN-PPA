@@ -2,6 +2,8 @@
 
 ## DENGAN INTEGRASI FITUR LAPOR PPA PADA APLIKASI BEBUNGE
 
+![Tampilan Beranda UPTD PPA](images/beranda-uptd-ppa.png)
+
 ## 1. Deskripsi Sistem
 
 Sistem Informasi Panduan Layanan PPA berbasis web merupakan aplikasi yang dirancang untuk menyediakan informasi layanan secara terstruktur dan mudah diakses oleh masyarakat terkait layanan Perlindungan Perempuan dan Anak (PPA). Sistem ini juga terintegrasi dengan fitur **Lapor PPA** pada aplikasi Bebunge guna mendukung proses pelaporan yang lebih cepat, terarah, dan terdokumentasi secara digital.
